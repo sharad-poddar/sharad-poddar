@@ -61,7 +61,7 @@
 <h4> Web Development </h4>
 <span> 
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,CSS, c,cpp,ex, github, graphql, materialui, nextjs, nodejs, py, react, solidity)](https://skillicons.dev)
   
   
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
